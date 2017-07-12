@@ -1,0 +1,118 @@
+#import turtle
+
+#t = turtle.Turtle()
+
+t.home()
+
+t.clear()
+
+for i in range(4):
+
+  t.forward(200)
+  t.left(90)
+
+print('hello')
+
+147
+for i in range(4):
+  t.forward(100)
+  t.left(90)
+  
+ t.left(90)
+ t.forward(110)
+ 
+ for in range(6)
+  t.forward(100)
+  t.fforward(-100)
+  t.left(-90)
+  t.forward(20)
+  t.left(90)
+  
+  Ans
+  #import turtle
+
+#t = turtle.Turtle()
+
+
+
+t.home()
+t.clear()
+
+for j in range(2):
+  for i in range(4):
+    t.forward(100)
+    t.left(90)
+    
+  t.left(90)
+  t.forward(120)
+  
+  for i in range(6):
+    t.forward(100)
+    t.forward(-100)
+    t.left(-90)
+    t.forward(20)
+    t.left(90)
+    
+  t.forward(-120)
+  
+  t.left(-90)
+
+  t.forward(-240)
+
+print('hello')
+  
+
+def rect(x,y,a)
+  t.up()
+  t.home 
+名前を付けることを理解する。
+
+def func():
+　　i = 3
+　　return i
+　　func()
+
+
+
+154
+
+def func(v):
+　　i = v + 3
+　　return i
+　　func(5)
+
+
+157
+　ｓ＝０
+ for x in range(1,101):7
+ 
+   s +=x
+
+
+def total(n):
+  s=0
+  for x in range(1,n+1):
+   s+=x
+  return s
+  
+ total(100)
+ 
+ total(10)
+ 
+ total(1000)
+ 
+ t.clear()
+ rect(110,-110,100)
+ rect(110,0,100)
+ rect(0,-110,100)
+ rect(0,0,100)
+ 
+ 
+ 
+  
+
+
+
+
+ 
+  
